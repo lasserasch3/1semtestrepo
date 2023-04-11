@@ -12,5 +12,6 @@ test lasse
 Nicklas Kruse 
 Ina Petersen
 Jakob Vesterlund
-ja tak 
+ja tak
+Henrik Møller
 Minh Mai
